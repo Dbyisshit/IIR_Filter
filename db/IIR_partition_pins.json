@@ -1,0 +1,89 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "data_out_8bit[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_out_8bit[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_clk",
+					"strict" : false
+				},
+				{
+					"name" : "adc_clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "data_8bit_in[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May  9 12:47:52 2023
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : IIR
+Top-level Entity Name : top
+Family : Cyclone IV E
+Total logic elements : 142
+    Total combinational functions : 85
+    Dedicated logic registers : 73
+Total registers : 73
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 16
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
